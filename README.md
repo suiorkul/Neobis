@@ -7,7 +7,7 @@ Author: Suiorkul Abdykaiymov
 # Java-Logo
 ![Alt text](java-logo.png?)
 
-# little bit code:
+# Little bit code:
 ```
 public class Main{
   public static void main(String arg []){
