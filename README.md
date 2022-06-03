@@ -12,6 +12,6 @@ Author: Suiorkul Abdykaiymov
 public class Main{
   public static void main(String arg []){
     Scanner scn= new Scanner(system.in);
-   int input= scn.nextInt(); 
+    int input= scn.nextInt(); 
 }
 ```
