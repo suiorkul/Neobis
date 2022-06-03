@@ -8,10 +8,11 @@ Author: Suiorkul Abdykaiymov
 ![Alt text](java-logo.png?)
 
 # little bit code:
-'''
+```
 public class Main{
   public static void main(String arg []){
     Scanner scn= new Scanner(system.in);
    int input= scn.nextInt(); 
+  }
 }
-'''
+```
